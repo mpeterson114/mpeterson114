@@ -1,4 +1,4 @@
-![github-header-image (6)](https://github.com/mpeterson114/mpeterson114/assets/109201695/040c3af9-8ba7-4a6d-869a-d1e130ed5d4f)
+![github-header-image (7)](https://github.com/mpeterson114/mpeterson114/assets/109201695/df21f812-5645-4c85-afe9-0a98dc151fa0)
 
 * 👋 I'm a software developer and learner at 42 Madrid with a background in speech-language pathology
 * 🛠️ I'm building projects in full-stack development, systems administration and cybersecurity fundamentals at 42 Madrid
